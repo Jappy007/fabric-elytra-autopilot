@@ -5,6 +5,7 @@
 This is a fork of Simonlourson's client [auto-flight mod](https://www.curseforge.com/minecraft/mc-mods/elytra-auto-flight), updated and added many additional utilities.
 
 
+
 ## How to use
 
 Press the assigned key (default "R") while flying high enough to enable 'Auto Flight'. While in Auto Flight mode, the mod will modify your pitch between going up and down, resulting in net altitude gain.
