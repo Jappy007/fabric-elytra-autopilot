@@ -21,3 +21,5 @@ While having an elytra equiped and fireworks on either your main or off hand, th
 
 ## *Risky landing*
 Deactivated by default, but can be activated in the config. When active, it will modify the regular landing behaviour to a more *risky* one, nosediving to the ground until the very last stretch. Not recommended for laggy servers/clients!
+
+now with a actual release
